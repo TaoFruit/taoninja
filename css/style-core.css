@@ -1329,3 +1329,13 @@ body .kleanity-footer-wrapper .gdlr-core-recent-portfolio-widget{ max-width: 70p
 		left: 20px !important;
 	}
 }
+
+/* Krashnik Customizations */
+.taoninja_logo {
+pointer-events: none;
+display: inline-block;
+}
+
+.kleanity-logo {
+	pointer-events: none;
+	}
