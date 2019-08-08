@@ -1336,3 +1336,5 @@ body .kleanity-footer-wrapper .gdlr-core-recent-portfolio-widget{ max-width: 70p
 object {
 	pointer-events: none;
   }
+
+  [data-layout="masonry"] .gdlr-core-item-list{ opacity: 100 !important; filter: alpha(opacity=0); }
